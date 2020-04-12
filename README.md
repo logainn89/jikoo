@@ -1,0 +1,2 @@
+# jikoo
+self sicript
